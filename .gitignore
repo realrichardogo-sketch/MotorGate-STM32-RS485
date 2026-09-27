@@ -1,0 +1,15 @@
+﻿# Generated and duplicate files
+*.zip
+gateway_G1_readonly/
+PPP03_motor_hal/
+*.uvoptx
+*.uvguix.*
+*.axf
+*.hex
+*.map
+*.o
+*.d
+*.lst
+*.crf
+*.dep
+*.lnp
